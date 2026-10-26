@@ -1,2 +1,3 @@
-# university-ai-mapping
-University AI implementation artifacts: workflow mapping, prioritization, and staff training.
+# University AI Implementation — Portfolio Artifacts
+
+Practical artifacts demonstrating AI implementation in higher education.
